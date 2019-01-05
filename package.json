@@ -1,0 +1,15 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/AcidBurnHen/background-generator.git"
+  },
+  "author": "hen",
+  "license": "ISC"
+}
